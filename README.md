@@ -68,4 +68,4 @@ Quotes
 
 > This is a quoted note.
 
-LOCAL EDIT 
+LOCAL EDIT ; remote edit
