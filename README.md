@@ -20,4 +20,6 @@ Add an installation section to the README.
 
 ## Requirements
 
-Explain what users need before installation - Add numbered installation steps - Include an example command
+- Explain what users need before installation 
+- Add numbered installation steps
+- Include an example command
