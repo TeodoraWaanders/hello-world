@@ -8,4 +8,4 @@ I am using this repository to practise:
   - Editing files
   - Creating commits
   - Working with branches
-  - Opening pull requests
+  - Opening pull requests 
