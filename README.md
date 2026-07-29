@@ -13,3 +13,11 @@ I am using this repository to practise:
 ## About 
 
 This repository was created as part of my introduction to GitHub.
+
+## Task
+
+Add an installation section to the README.
+
+## Requirements
+
+Explain what users need before installation - Add numbered installation steps - Include an example command
