@@ -9,3 +9,7 @@ I am using this repository to practise:
   - Creating commits
   - Working with branches
   - Opening pull requests 
+
+## About 
+
+This repository was created as part of my introduction to GitHub.
